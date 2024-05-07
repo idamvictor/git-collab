@@ -2,3 +2,8 @@ body {
   background-color: black;
   color: #fff;
 }
+button {
+  padding: 8px;
+  background-color: aquamarine;
+  color: #fff;
+}
